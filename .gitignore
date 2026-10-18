@@ -7,10 +7,8 @@ __pycache__/
 data/
 cache_embeddings.pkl
 
-# Abaikan file Excel
-*.xlsx
+# Abaikan semua CSV secara umum...
 *.csv
 
-# Abaikan file sistem
-.DS_Store
-Thumbs.db
+# ...TAPI izinkan file CSV di dalam folder kamus
+!kamus/*.csv

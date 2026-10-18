@@ -1,0 +1,254 @@
+method
+YOLOv1
+YOLOv2
+YOLOv3
+YOLOv4
+YOLOv5
+YOLOv6
+YOLOv7
+YOLOv8
+YOLOv9
+YOLOv10
+YOLO11
+YOLO12
+EfficientNet
+EfficientNetV2B0
+EfficientNetV2
+MobileNet
+MobileNetV2
+VGG16
+VGG19
+ResNet
+ResNet50
+DenseNet
+InceptionV3
+InceptionResNetV2
+Xception
+CNN
+Convolutional Neural Network
+RNN
+Recurrent Neural Network
+LSTM
+GRU
+Bi-LSTM
+Bi-GRU
+Transformer
+Vision Transformer
+ViT
+Swin Transformer
+BERT
+IndoBERT
+RoBERTa
+DistilBERT
+ALBERT
+GPT
+GPT-2
+GPT-3
+GPT-4
+LLaMA
+Mistral
+Gemini
+FastText
+Word2Vec
+GloVe
+TF-IDF
+Bag of Words
+BoW
+N-Gram
+SVM
+Support Vector Machine
+SVR
+Random Forest
+Decision Tree
+XGBoost
+LightGBM
+CatBoost
+Gradient Boosting
+GBDT
+AdaBoost
+Naive Bayes
+KNN
+K-Nearest Neighbors
+Logistic Regression
+Linear Regression
+Multiple Linear Regression
+Polynomial Regression
+Ridge Regression
+Lasso Regression
+Elastic Net
+K-Means
+K-Means Clustering
+DBSCAN
+HDBSCAN
+Hierarchical Clustering
+Mean Shift
+Gaussian Mixture Model
+GMM
+Apriori
+FP-Growth
+ARIMA
+SARIMA
+SARIMAX
+VAR
+Vector Autoregression
+Prophet
+LSTM-ARIMA
+GARCH
+Exponential Smoothing
+Holt-Winters
+Autoencoder
+VAE
+GAN
+DCGAN
+CGAN
+ProjectedGAN
+Reinforcement Learning
+Q-Learning
+Deep Q-Network
+DQN
+Particle Swarm Optimization
+PSO
+Simulated Annealing
+Genetic Algorithm
+Algoritma Genetika
+Ant Colony Optimization
+ACO
+Grey Wolf Optimizer
+Firefly Algorithm
+Flutter
+React Native
+Android Studio
+Swift
+Kotlin
+Java
+Python
+JavaScript
+TypeScript
+PHP
+C#
+C++
+Go
+Rust
+Laravel
+CodeIgniter
+Django
+Flask
+FastAPI
+Node.js
+Express.js
+Spring Boot
+ASP.NET
+REST API
+GraphQL
+gRPC
+WebSocket
+MySQL
+PostgreSQL
+MongoDB
+Redis
+Firebase
+Neo4j
+SQLite
+Oracle
+SQL Server
+MariaDB
+IoT
+Internet of Things
+Arduino
+Raspberry Pi
+ESP32
+ESP8266
+MQTT
+LoRa
+Zigbee
+Unity
+Unreal Engine
+Godot
+VR
+AR
+Mixed Reality
+Waterfall
+Scrum
+Agile
+Kanban
+Prototyping
+RAD
+MDLC
+Multimedia Development Life Cycle
+SDLC
+V-Shaped Model
+MVC
+MVVM
+BLoC
+Provider
+GetX
+Redux
+UAT
+User Acceptance Testing
+SUS
+System Usability Scale
+Black Box Testing
+White Box Testing
+Grey Box Testing
+TAM
+Technology Acceptance Model
+UTAUT
+Delphi Method
+AHP
+Analytical Hierarchy Process
+TOPSIS
+SAW
+Simple Additive Weighting
+Web Scraping
+ETL
+Data Analytics
+Data Mining
+Power BI
+Tableau
+Looker Studio
+Excel Solver
+Knowledge Graph
+SPARQL
+RDF
+Protégé
+Honey Encryption
+AES
+DES
+RSA
+SHA
+MD5
+Blockchain
+Smart Contract
+OAuth
+JWT
+RBAC
+Jaro-Winkler
+Cosine Similarity
+Jaccard Similarity
+Euclidean Distance
+Levenshtein Distance
+Manhattan Distance
+Minkowski Distance
+Pearson Correlation
+Spearman Correlation
+Chi-Square
+ANOVA
+T-Test
+Regresi Logistik
+Regresi Linear
+Analisis Deskriptif
+Analisis Kuantitatif
+Analisis Kualitatif
+Studi Literatur
+Systematic Literature Review
+SLR
+Design Science Research
+DSR
+Action Research
+Case Study
+Focus Group Discussion
+FGD
+Observasi
+Wawancara
+Kuesioner
+Survei
