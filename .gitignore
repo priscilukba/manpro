@@ -1,14 +1,46 @@
-# Abaikan environment Python
+# ==========================================
+# 1. PENGATURAN ENVIRONMENT PYTHON (VENV)
+# ==========================================
+# Abaikan folder virtual environment agar tidak mengunggah ribuan file library
 env/
+venv/
+.venv/
+ENV/
+
+# Abaikan file cache Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
 
-# Abaikan data dan cache besar
+# ==========================================
+# 2. DATA PENELITIAN (SANGAT PENTING)
+# ==========================================
+# Abaikan folder data mentah (Excel skripsi)
 data/
-cache_embeddings.pkl
 
-# Abaikan semua CSV secara umum...
+# Abaikan file Excel secara umum
+*.xlsx
+*.xls
 *.csv
 
-# ...TAPI izinkan file CSV di dalam folder kamus
+# Abaikan file hasil ekstraksi yang besar
+hasil_labeling.csv
+hasil_info.csv
+hasil_batch2.csv
+
+# KECUALI: Izinkan file kamus CSV masuk ke GitHub
 !kamus/*.csv
+
+# ==========================================
+# 3. FILE MODEL & CACHE AI
+# ==========================================
+# Abaikan file cache (format .pkl, .pt, .safetensors, dll)
+cache_embeddings.pkl
+*.pkl
+*.pt
+*.pth
+*.safetensors
+
+# Abaikan folder model lokal jika ada
+models/
