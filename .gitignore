@@ -1,0 +1,16 @@
+# Abaikan environment Python
+env/
+__pycache__/
+*.pyc
+
+# Abaikan data dan cache besar
+data/
+cache_embeddings.pkl
+
+# Abaikan file Excel
+*.xlsx
+*.csv
+
+# Abaikan file sistem
+.DS_Store
+Thumbs.db
